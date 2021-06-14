@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mass0ma
-- 👀 I’m interested in Web App Pentesting
-- 🌱 I’m currently learning Web App Pentesting
+- 👀 I’m from India 🇮🇳
+- 🌱 I’m a passionate Bug Bounty Hunter
+- 😄  I'm Looking forward to learning new stuff daily
 - 📫 How to reach me https://twitter.com/mass0ma
 
 <!---
